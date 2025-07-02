@@ -31,7 +31,6 @@ Product Vision Statement
 
     การเขียนบทคัดย่อที่นักเรียนหรือนักศึกษาพบเจอ มักจะสะกดคำผิดและใช้ภาษาไม่เป็นทางการ และการเรียบเรียงเนื้อหาที่ขาดความเชื่อมโยง 
     
-Roadmap
+Product Roadmap เบื้องต้น
 
-   ![Image](https://github.com/user-attachments/assets/5e4818ad-ff3e-4af7-b2de-c5ee231f83a6)
- 
+    [[ETG]-Roadmap.pdf](https://github.com/user-attachments/files/21009964/ETG.-Roadmap.pdf)
